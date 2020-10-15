@@ -1,0 +1,60 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Fancy Feast",
+        "imageSource": "cat_food.png",
+        "price": 3.00,
+        "description": "A feast fit for your little king or queen, all in one convinient can."
+      },
+      {
+        "id": 2,
+        "name": "Fish Tank",
+        "imageSource": "fish_tank.png",
+        "price": 18.00,
+        "description": "A 10 gallon tank of premium quality."
+      },
+      {
+        "id": 3,
+        "name": "Bird Swing",
+        "imageSource": "bird_swing.png",
+        "price": 7.50,
+        "description": "A fun swing for your feathered friend."
+      },
+      {
+        "id": 4,
+        "name": "Science Diet",
+        "imageSource": "dog_food.png",
+        "price": 12.00,
+        "description": "Scientifically proven to be the best dog food."
+      },
+      {
+        "id": 5,
+        "name": "Reptile Heater",
+        "imageSource": "reptile_heater.png",
+        "price": 15.99,
+        "description": "Keep your pet nice and toasty with this heater."
+      },
+      {
+        "id": 6,
+        "name": "Bunny Hurdle",
+        "imageSource": "bunny_hurdle.png",
+        "price": 20.00,
+        "description": "Sturdy set of hurdles for your bunny's next event."
+      },
+      {
+        "id": 7,
+        "name": "Pet Fountain",
+        "imageSource": "pet_fountain.png",
+        "price": 35.00,
+        "description": "The best fountain to provide fresh water to your pets."
+      },
+      {
+        "id": 8,
+        "name": "Dog Toy",
+        "imageSource": "dog_toy.png",
+        "price": 3.00,
+        "description": "Man's best friend deserves a favorite toy to play with."
+      }
+    ]
+} 
