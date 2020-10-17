@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  background-image: url("./background.png");
+  background-repeat: repeat;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}

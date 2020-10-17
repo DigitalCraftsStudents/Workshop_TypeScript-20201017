@@ -1,0 +1,26 @@
+.Header {
+    background-color: #ffffff;
+    position:fixed;
+    top:0;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    z-index: 100;
+    color: #007bff;
+    box-shadow: inset 0 -1px 0 white, inset 0 -5px 14px rgba(229,229,229,0.2), 0 2px 5px rgba(0,0,0,0.1);
+    border-bottom: 1px solid #d7dae0;
+}
+
+.titleHolder {
+    display: flex;
+    align-items: center;
+}
+
+.userInfo {
+    text-align: center;
+}
+
+.logo {
+    margin: 5px;
+}

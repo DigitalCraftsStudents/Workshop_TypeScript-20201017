@@ -1,0 +1,16 @@
+.Catalog {
+    margin-top: 0;
+    padding-top: 20px;
+    top: 64px;
+    left: 6%;
+    bottom: 0;
+    display: flex;
+}
+
+.contents {
+    width: 84%;
+    display: flex;
+    flex-flow: wrap;
+    padding-top: 25px;
+    padding-left: 3%;
+}
