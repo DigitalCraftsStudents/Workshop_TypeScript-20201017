@@ -1,0 +1,11 @@
+.Cart {
+    background-color: #cae0f8;
+    position: fixed;
+    top: 85px;
+    right: 0;
+    height: 100%;
+}
+
+.cartItem {
+    background-color: #8fabce;
+}

@@ -1,0 +1,29 @@
+.CartItem {
+    height: 50px;
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quantity-selector {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 56px;
+}
+
+.icon {
+    cursor: pointer;
+    color: #007bff;
+}
+
+.icon:hover {
+    color: #0257b3;
+}
+
+.icon:active {
+    cursor: pointer;
+    color: #064283;
+}
+
