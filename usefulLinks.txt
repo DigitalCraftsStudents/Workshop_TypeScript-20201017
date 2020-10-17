@@ -1,0 +1,5 @@
+Chrome and Firefox Dev Links:
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+
+React Hooks Reference https://reactjs.org/docs/hooks-reference.html
+
